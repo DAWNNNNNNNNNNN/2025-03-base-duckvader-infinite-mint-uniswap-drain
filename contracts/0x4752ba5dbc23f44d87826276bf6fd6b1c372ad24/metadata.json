@@ -1,0 +1,12 @@
+{
+  "address": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",
+  "chain_id": 8453,
+  "contract_name": "UniswapV2Router02",
+  "compiler": "v0.6.6+commit.6c089d02",
+  "optimization": "1",
+  "runs": "200",
+  "evm_version": "istanbul",
+  "license": "",
+  "proxy": "0",
+  "implementation": ""
+}

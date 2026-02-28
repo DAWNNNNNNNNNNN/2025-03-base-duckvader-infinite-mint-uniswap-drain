@@ -1,0 +1,12 @@
+{
+  "address": "0xaa8f35183478b8eced5619521ac3eb3886e98c56",
+  "chain_id": 8453,
+  "contract_name": "DUCKVADER",
+  "compiler": "v0.8.25+commit.b61c2a91",
+  "optimization": "0",
+  "runs": "200",
+  "evm_version": "Default",
+  "license": "MIT",
+  "proxy": "0",
+  "implementation": ""
+}
