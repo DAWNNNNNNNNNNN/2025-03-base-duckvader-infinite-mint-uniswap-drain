@@ -1,0 +1,2 @@
+forge-std/=lib/forge-std/src/
+@openzeppelin/contracts/=contracts/0xaa8f35183478b8eced5619521ac3eb3886e98c56/
